@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivamani1913
-- .Net Full Stack Development
+-   Diving into .Net Full Stack Development
 - 👀 I’m interested in learning data analytics...
 - 🌱 I’m currently learning python and sql...
 - 💞️ I’m looking to collaborate on 
